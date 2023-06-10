@@ -19,3 +19,13 @@ You can install the required libraries using pip:
 
 ```bash
 pip install pandas seaborn matplotlib scipy scikit-learn pandas-datareader yfinance statsmodels
+
+
+## Usage
+
+To run the code, follow the steps below:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your_username/service-now-analysis.git
